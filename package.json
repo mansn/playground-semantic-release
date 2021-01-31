@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/mansn/playground-semantic-release/issues"
   },
-  "homepage": "https://github.com/mansn/playground-semantic-release#readme"
+  "homepage": "https://github.com/mansn/playground-semantic-release#readme",
+  "devDependencies": {
+    "semantic-release": "^17.3.7"
+  }
 }
